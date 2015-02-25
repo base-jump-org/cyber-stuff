@@ -2,7 +2,7 @@
 #
 # Track mac address
 # in DHCP logs
-#
+#    *********** IN PROGRESS ************
 # jm@base-jump.org 2015
 #######################
 ## Import common libs
